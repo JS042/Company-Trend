@@ -1,5 +1,5 @@
 # 원하는 기업, 다(多) 잡(job)아봐!
-DACON 구직자를 위한 기업 트렌드 시각화 경진대회 공모작입니다.
+[DACON 구직자를 위한 기업 트렌드 시각화 경진대회](https://dacon.io/competitions/official/235866/overview/description)
 
 기간: 2021.12 - 2022.01
 
